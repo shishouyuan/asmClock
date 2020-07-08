@@ -1,0 +1,15 @@
+﻿生成启动时间为 2012/12/2 14:29:52。
+     1>项目“E:\SSY\编程\汇编\项目\AsmStudy\Clock\Clock.vcxproj”在节点 2 上(Build 个目标)。
+     1>_MASM:
+         Assembling Clock.asm...
+         cmd.exe /C "D:\Users\SSY\AppData\Local\Temp\tmp39a39318f8c141f588ae7d3ab565374c.cmd"
+         ml.exe /c /nologo /Zi /Fo"Intermediate\Debug\Clock.obj" /I "E:\masm32\include" /W3 /errorReport:prompt  /TaClock.asm
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Bin\Debug\Clock.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Bin\Debug\Clock.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Bin\Debug\Clock.lib" /MACHINE:X86 Intermediate\Debug\r.res
+         Intermediate\Debug\Clock.obj
+         Clock.vcxproj -> E:\SSY\编程\汇编\项目\AsmStudy\Clock\Bin\Debug\Clock.exe
+     1>已完成生成项目“E:\SSY\编程\汇编\项目\AsmStudy\Clock\Clock.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.72

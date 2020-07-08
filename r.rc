@@ -1,0 +1,3 @@
+#define ICON_MAIN 0x0001
+
+ICON_MAIN ICON "Clock.ico"

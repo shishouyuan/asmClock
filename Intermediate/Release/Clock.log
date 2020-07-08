@@ -1,0 +1,25 @@
+﻿生成启动时间为 2012/7/25 11:17:48。
+     1>项目“E:\SSY\编程\汇编\项目\AsmStudy\Clock\Clock.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Intermediate\Release\Clock.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       _MASM:
+         Assembling [Inputs]...
+         cmd.exe /C "D:\Users\SSY\AppData\Local\Temp\2ee7538eebeb498d92a7a65976743cda.cmd"
+         ml.exe /c /nologo /Zi /Fo"Intermediate\Release\Clock.obj" /I "E:\masm32\include" /W3 /errorReport:prompt  /TaClock.asm
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         d:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Bin\Release\Clock.exe" /NOLOGO /MANIFEST /ManifestFile:"Intermediate\Release\Clock.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"E:\SSY\编程\汇编\项目\AsmStudy\Clock\Bin\Release\Clock.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Bin\Release\Clock.lib" /MACHINE:X86 Intermediate\Release\r.res
+         Intermediate\Release\Clock.obj
+         LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+         Clock.vcxproj -> E:\SSY\编程\汇编\项目\AsmStudy\Clock\Bin\Release\Clock.exe
+       Manifest:
+         D:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"Bin\Release\Clock.exe;#1" /manifest Intermediate\Release\Clock.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Intermediate\Release\Clock.unsuccessfulbuild”。
+         正在对“Intermediate\Release\Clock.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\SSY\编程\汇编\项目\AsmStudy\Clock\Clock.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.47
